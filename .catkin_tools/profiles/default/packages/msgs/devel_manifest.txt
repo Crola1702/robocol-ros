@@ -1,0 +1,5 @@
+robocol/msgs
+/home/crola/ros/robocol_ws/devel/.private/msgs/cmake.lock /home/crola/ros/robocol_ws/devel/./cmake.lock
+/home/crola/ros/robocol_ws/devel/.private/msgs/lib/pkgconfig/msgs.pc /home/crola/ros/robocol_ws/devel/lib/pkgconfig/msgs.pc
+/home/crola/ros/robocol_ws/devel/.private/msgs/share/msgs/cmake/msgsConfig-version.cmake /home/crola/ros/robocol_ws/devel/share/msgs/cmake/msgsConfig-version.cmake
+/home/crola/ros/robocol_ws/devel/.private/msgs/share/msgs/cmake/msgsConfig.cmake /home/crola/ros/robocol_ws/devel/share/msgs/cmake/msgsConfig.cmake

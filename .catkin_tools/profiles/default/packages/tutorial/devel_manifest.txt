@@ -1,0 +1,5 @@
+robocol/tutorial
+/home/crola/ros/robocol_ws/devel/.private/tutorial/cmake.lock /home/crola/ros/robocol_ws/devel/./cmake.lock
+/home/crola/ros/robocol_ws/devel/.private/tutorial/lib/pkgconfig/tutorial.pc /home/crola/ros/robocol_ws/devel/lib/pkgconfig/tutorial.pc
+/home/crola/ros/robocol_ws/devel/.private/tutorial/share/tutorial/cmake/tutorialConfig-version.cmake /home/crola/ros/robocol_ws/devel/share/tutorial/cmake/tutorialConfig-version.cmake
+/home/crola/ros/robocol_ws/devel/.private/tutorial/share/tutorial/cmake/tutorialConfig.cmake /home/crola/ros/robocol_ws/devel/share/tutorial/cmake/tutorialConfig.cmake
